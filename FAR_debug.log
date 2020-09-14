@@ -1,0 +1,4 @@
+[2020-07-25 17:28:26.811] [FARlog] [info] --------Log begin---------
+[2020-07-25 17:28:26.811] [FARlog] [trace] StartRenderingView called
+[2020-07-25 17:28:27.199] [FARlog] [trace] Render begin!
+[2020-07-25 17:28:40.136] [FARlog] [trace] Render end! result code = 0
